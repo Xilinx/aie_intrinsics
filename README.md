@@ -1,3 +1,11 @@
-# aie_intrinsics
+# AIE Intrinsics Documentation (UG1078)
 
-Datatypes and function intrinsics for AIE application-level programming.
+Datatypes and function intrinsics for AI Engine application-level programming.
+
+## Available Versions
+
+| Version | Link                                  |
+|---------|-------------------------------------|
+| 2020.2  | [View Documentation](./2020.2/html_doc_customer/index.html) |
+
+
