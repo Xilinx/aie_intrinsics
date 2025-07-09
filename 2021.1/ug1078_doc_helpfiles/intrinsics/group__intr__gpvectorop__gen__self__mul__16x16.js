@@ -1,0 +1,27 @@
+var group__intr__gpvectorop__gen__self__mul__16x16 =
+[
+    [ "mac16", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga920c2427c312e9d53c29cf8aa1302184", null ],
+    [ "mac16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gae8e072c17c27f5fc6dd966183c452cf2", null ],
+    [ "mac16", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga7b431ba54e38f7f8d485552161ad56db", null ],
+    [ "mac8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga43a735d7fcc2bba36b5de1317bc0a96b", null ],
+    [ "mac8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga7dc962757140a5920b235a1386c5a4c5", null ],
+    [ "mac8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga39128087df6121033fa53b5aa65c8ab0", null ],
+    [ "msc16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gacfc13490eac79c98182706cac9341ff5", null ],
+    [ "msc16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gab3b20eb76ae196e41e97c9862962ae24", null ],
+    [ "msc16", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga69cdf08e38db26e309c6416854c5dbdb", null ],
+    [ "msc8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga6c7423436e362fcdf3bfbed5ee4189f9", null ],
+    [ "msc8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga3e369c6aca7c9dbf0ac81d856855d027", null ],
+    [ "msc8", "group__intr__gpvectorop__gen__self__mul__16x16.html#gafe299bfc2ad611203b298918ca29250a", null ],
+    [ "mul16", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga4fc6f08d8664686d8dd278e2b170cc89", null ],
+    [ "mul16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gac686f2db22610a007949e7b1f01103a6", null ],
+    [ "mul16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gad5bf295c8237e8cf47ea83d796447987", null ],
+    [ "mul8", "group__intr__gpvectorop__gen__self__mul__16x16.html#gaa0a4613d683a417f5833eca42335c682", null ],
+    [ "mul8", "group__intr__gpvectorop__gen__self__mul__16x16.html#gadb63fc5a0e4c07bcb3ec1a07c6b62c9f", null ],
+    [ "mul8", "group__intr__gpvectorop__gen__self__mul__16x16.html#gaec664f821644a5f9b28f2b25426fe19e", null ],
+    [ "negmul16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gae93b74aa336d53e74fe4ec5ad008add7", null ],
+    [ "negmul16", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga5064049096ce35b9a2267ebd80d98c79", null ],
+    [ "negmul16", "group__intr__gpvectorop__gen__self__mul__16x16.html#gae572f2e3ab08e3ec8a7e807ad0d9f94e", null ],
+    [ "negmul8", "group__intr__gpvectorop__gen__self__mul__16x16.html#gaea81e37b0e168ce8ba012d4f0497f4f5", null ],
+    [ "negmul8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga267316fe281ffdbe545ce69c1cfc0148", null ],
+    [ "negmul8", "group__intr__gpvectorop__gen__self__mul__16x16.html#ga78e7a7feca1a6b5954fb15b2471c0233", null ]
+];
