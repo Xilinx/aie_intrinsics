@@ -1,0 +1,27 @@
+var group__vect__mult__16x32c__dnc =
+[
+    [ "lmac4", "group__vect__mult__16x32c__dnc.html#ga02fc2ddbad5db5660c4e21e46eb28f66", null ],
+    [ "lmac4", "group__vect__mult__16x32c__dnc.html#ga321ae0007c2035e29b3355aee46de1b6", null ],
+    [ "lmsc4", "group__vect__mult__16x32c__dnc.html#ga7b6a9b433edf0b771644231d76e96fbe", null ],
+    [ "lmsc4", "group__vect__mult__16x32c__dnc.html#gaa2098abf0ae17e5ff7ed0feea6128f38", null ],
+    [ "lmul4", "group__vect__mult__16x32c__dnc.html#ga6faaf0785c9a7fd23560397fb88f528b", null ],
+    [ "lmul4", "group__vect__mult__16x32c__dnc.html#ga061ea1af033df9dca799ba1a60604b60", null ],
+    [ "lnegmul4", "group__vect__mult__16x32c__dnc.html#ga08a326a42603973202d96823107be45f", null ],
+    [ "lnegmul4", "group__vect__mult__16x32c__dnc.html#ga7a967f9c16f7e7280d08fd524d575551", null ],
+    [ "mac4", "group__vect__mult__16x32c__dnc.html#ga1446e305d9420dfe5f782843f11f4bf6", null ],
+    [ "mac4", "group__vect__mult__16x32c__dnc.html#ga77404d0b5ac75a6c7412d1723302e9d5", null ],
+    [ "mac8", "group__vect__mult__16x32c__dnc.html#ga86ba061f312ec0d9806973a4fefb8a6d", null ],
+    [ "mac8", "group__vect__mult__16x32c__dnc.html#ga2204ca47da411c23dc142fd46ffd0acc", null ],
+    [ "msc4", "group__vect__mult__16x32c__dnc.html#gab717954350d4ed2baff8519fd3d2b227", null ],
+    [ "msc4", "group__vect__mult__16x32c__dnc.html#ga41091d5d9f8cbd0f62a808e367dd6af9", null ],
+    [ "msc8", "group__vect__mult__16x32c__dnc.html#ga838402818b735300b9adaf38e439489a", null ],
+    [ "msc8", "group__vect__mult__16x32c__dnc.html#gad4248932bc761f67556d8a25cd19c08b", null ],
+    [ "mul4", "group__vect__mult__16x32c__dnc.html#ga72b37f0d4a72816959535a7082bfde2e", null ],
+    [ "mul4", "group__vect__mult__16x32c__dnc.html#gac1b92309c6c0d7f02a8ee657063bfe3c", null ],
+    [ "mul8", "group__vect__mult__16x32c__dnc.html#ga7778cd93376e33cf220ddc083709e01e", null ],
+    [ "mul8", "group__vect__mult__16x32c__dnc.html#gaca4040efa776139f326ff4eadf3da68a", null ],
+    [ "negmul4", "group__vect__mult__16x32c__dnc.html#gaac9a7d435fc1a9c2cbc793a4e8c7e089", null ],
+    [ "negmul4", "group__vect__mult__16x32c__dnc.html#ga283571be45fdb84c6f1d93c095d80804", null ],
+    [ "negmul8", "group__vect__mult__16x32c__dnc.html#gadffd2dff2af5a200fb63e590a0ddb95d", null ],
+    [ "negmul8", "group__vect__mult__16x32c__dnc.html#gaf17e4ea857531b38c9ef8350dd6c1d3c", null ]
+];

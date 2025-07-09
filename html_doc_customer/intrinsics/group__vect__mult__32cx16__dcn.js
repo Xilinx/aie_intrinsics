@@ -1,0 +1,27 @@
+var group__vect__mult__32cx16__dcn =
+[
+    [ "lmac4", "group__vect__mult__32cx16__dcn.html#ga1ca03a2a72b86f964e12fbdf986340ee", null ],
+    [ "lmac4", "group__vect__mult__32cx16__dcn.html#gaa88f942bba844e78fc72c632a639e833", null ],
+    [ "lmsc4", "group__vect__mult__32cx16__dcn.html#gac370b213705ad024fa65e7bd62d5455b", null ],
+    [ "lmsc4", "group__vect__mult__32cx16__dcn.html#gad3b00d0c124b62cbe8f81f8cc1137d30", null ],
+    [ "lmul4", "group__vect__mult__32cx16__dcn.html#ga4c8c1f6d1279fb111218b1bd7180aa5c", null ],
+    [ "lmul4", "group__vect__mult__32cx16__dcn.html#gab9890617118fa7e49a8f65ce58780515", null ],
+    [ "lnegmul4", "group__vect__mult__32cx16__dcn.html#ga5452c4f46ee29b590f2f73b32786a913", null ],
+    [ "lnegmul4", "group__vect__mult__32cx16__dcn.html#gad7a0a7638484e478eb046d2d65ab1151", null ],
+    [ "mac4", "group__vect__mult__32cx16__dcn.html#ga5d1c16217712cf5d609f46995a64bb69", null ],
+    [ "mac4", "group__vect__mult__32cx16__dcn.html#gaef68ab34d40f6f9974e689bd7163f7d3", null ],
+    [ "mac8", "group__vect__mult__32cx16__dcn.html#ga7d2806d95928fd44d7c29a1cb1a79af1", null ],
+    [ "mac8", "group__vect__mult__32cx16__dcn.html#gaef80c1e02bfde64c9cee90481001f54a", null ],
+    [ "msc4", "group__vect__mult__32cx16__dcn.html#gae9b733ee3aca12d4a1f12de5cc55daa6", null ],
+    [ "msc4", "group__vect__mult__32cx16__dcn.html#gab9cc14c8efbc8870a288ea99e69e5c8c", null ],
+    [ "msc8", "group__vect__mult__32cx16__dcn.html#ga40957c9ca833fe020af7a21d1dfc51d9", null ],
+    [ "msc8", "group__vect__mult__32cx16__dcn.html#gaa44121b543d6d7ad7ae946c0806484e0", null ],
+    [ "mul4", "group__vect__mult__32cx16__dcn.html#gafdafdc05a45ed9b1f205fd90d6d248d4", null ],
+    [ "mul4", "group__vect__mult__32cx16__dcn.html#ga24ca82825d45a86333d1738926810b42", null ],
+    [ "mul8", "group__vect__mult__32cx16__dcn.html#gae85fe73b168060e45430ada866ad7471", null ],
+    [ "mul8", "group__vect__mult__32cx16__dcn.html#ga7a9c18943094fbfe2f44dcfa55410743", null ],
+    [ "negmul4", "group__vect__mult__32cx16__dcn.html#ga64a838a6d5fc90a50d222b45be69bca3", null ],
+    [ "negmul4", "group__vect__mult__32cx16__dcn.html#ga66c768ffa2a31e1d5b6069d4be33cdba", null ],
+    [ "negmul8", "group__vect__mult__32cx16__dcn.html#ga545a460c6b9ad7fcc6d2bc7be936212c", null ],
+    [ "negmul8", "group__vect__mult__32cx16__dcn.html#ga3ef3f2b15b67ec0bba71af8f3b996f46", null ]
+];

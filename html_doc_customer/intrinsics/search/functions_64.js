@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['dds_5fipol',['dds_ipol',['../group__intr__dds__ipol.html#gaea75a2e73ebbb6d9d8e481e6d7f0a847',1,'dds_ipol(v16cint16 xbuf, int xidx1, int xidx2, int swap, v16int16 zbuf):&#160;me_mult.h'],['../group__intr__dds__ipol.html#gadac6f22762d16f408410720be4f59b47',1,'dds_ipol(v32cint16 xbuf, int xidx1, int xidx2, int swap, v16int16 zbuf):&#160;me_mult.h']]],
+  ['delay1',['delay1',['../group__intr__scldelay.html#ga6f22e2b156030ab92a1be83ff0a77b0a',1,'delay1(int a0):&#160;me_chess_opns.c'],['../group__intr__scldelay.html#ga6f22e2b156030ab92a1be83ff0a77b0a',1,'delay1(int):&#160;me_chess_opns.c']]],
+  ['delay2',['delay2',['../group__intr__scldelay.html#gaa3798ad3d4d34ff5369b2d27ce0ee4e1',1,'delay2(int a0):&#160;me_chess_opns.c'],['../group__intr__scldelay.html#gaa3798ad3d4d34ff5369b2d27ce0ee4e1',1,'delay2(int):&#160;me_chess_opns.c']]],
+  ['dpd',['dpd',['../group__intr__dpd.html#ga20f005c6de8bd1cda8a4cb0b28b12f45',1,'dpd(v8cacc48 acc, int rot, v16cint16 lut, v8cint16 data, unsigned int zoffs):&#160;me_mult.h'],['../group__intr__dpd.html#ga4ef6189bb36f5fe978a6128dc9e18264',1,'dpd(v8cacc48 acc, v4cacc48 scd, int rot, v16cint16 lut, v8cint16 data, unsigned int zoffs):&#160;me_mult.h'],['../group__intr__dpd.html#ga7f8117d9c1189c309a599526ad2466e7',1,'dpd(v8cacc48 acc, int rot, v16cint16 lut, v16int16 data, unsigned int zoffs, unsigned int zoffs_hi):&#160;me_mult.h'],['../group__intr__dpd.html#gade9f00b20373811e73f3d399f4601c49',1,'dpd(v8cacc48 acc, v4cacc48 scd, int rot, v16cint16 lut, v16int16 data, unsigned int zoffs, unsigned int zoffs_hi):&#160;me_mult.h']]],
+  ['dpd_5fipol',['dpd_ipol',['../group__intr__dpd.html#ga46a988cec7c15f30408fd276263b9af1',1,'me_mult.h']]]
+];

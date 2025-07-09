@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['vector_20data_2dtypes',['Vector Data-types',['../group__dt__gpvector.html',1,'']]],
+  ['vector_20conversions',['Vector Conversions',['../group__intr__gpvectorconv.html',1,'']]],
+  ['vector_20operations',['Vector Operations',['../group__intr__gpvectorop.html',1,'']]],
+  ['vector_20arithmetic',['Vector Arithmetic',['../group__intr__gpvectorop__arithmetic.html',1,'']]],
+  ['vector_20comparison',['Vector comparison',['../group__intr__gpvectorop__comparison.html',1,'']]],
+  ['vector_20maxdiff',['Vector MaxDiff',['../group__intr__gpvectorop__mdiff__cmp.html',1,'']]],
+  ['vector_20compares',['Vector Compares',['../group__intr__gpvectorop__vec__cmp.html',1,'']]],
+  ['vector_20lane_20selection',['Vector Lane Selection',['../group__intr__gpvectorop__vec__sel.html',1,'']]],
+  ['vector_20max_2fmin',['Vector Max/Min',['../group__intr__gpvectorop__word__cmp__max__min.html',1,'']]],
+  ['vector_20mac',['Vector MAC',['../group__vect__mult.html',1,'']]],
+  ['vector_20mac_20with_20pre_2dsubtraction',['Vector MAC with pre-subtraction',['../group__vect__mult__antisym.html',1,'']]],
+  ['vector_20mac_20with_20partial_20pre_2dsubtraction',['Vector MAC with partial pre-subtraction',['../group__vect__mult__antisym__ct.html',1,'']]],
+  ['vector_20mac_20with_20pre_2dsubtraction_20and_20upshifting',['Vector MAC with pre-subtraction and upshifting',['../group__vect__mult__antisym__uct.html',1,'']]],
+  ['vector_20mac_20combined_20with_20vector_20comparisons',['Vector MAC combined with vector comparisons',['../group__vect__mult__cmp.html',1,'']]],
+  ['vector_20mac_20with_20pre_2dsubtraction_20and_20conjugation',['Vector MAC with pre-subtraction and conjugation',['../group__vect__mult__conj__antisym.html',1,'']]],
+  ['vector_20mac_20with_20pre_2dadding_20and_20conjugation',['Vector MAC with pre-adding and conjugation',['../group__vect__mult__conj__sym.html',1,'']]],
+  ['vector_20mac_20with_20pre_2dadding',['Vector MAC with pre-adding',['../group__vect__mult__sym.html',1,'']]],
+  ['vector_20mac_20with_20partial_20pre_2dadding',['Vector MAC with partial pre-adding',['../group__vect__mult__sym__ct.html',1,'']]],
+  ['vector_20mac_20with_20pre_2dadding_20and_20upshifting',['Vector MAC with pre-adding and upshifting',['../group__vect__mult__sym__uct.html',1,'']]]
+];

@@ -1,0 +1,27 @@
+var group__vect__mult__sym__32cx16c__dcc =
+[
+    [ "lmac4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga0c822665467b36b301cab7783a755cd3", null ],
+    [ "lmac4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gac1d337e2f48dd4fe1f519d5b8f78c5e6", null ],
+    [ "lmac4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gaba972d28efe9ea53f3983074f779c3a9", null ],
+    [ "lmsc4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga878059b56158d46dc6b23cc3da0e5370", null ],
+    [ "lmsc4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gae29804bd1e01543c10066b7c415cf25d", null ],
+    [ "lmsc4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gaaa3a2d0cecb40d76104bf1e709729f81", null ],
+    [ "lmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga3ddcdf4f1c1d93d3ac585d860e3115a1", null ],
+    [ "lmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga6f4dbdfd5b9bddfd36ac5362462c3a52", null ],
+    [ "lmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gab1bd372df2519e1e885e92776a863dd9", null ],
+    [ "lnegmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga071f098d6dec85eee0326aff59bbfca6", null ],
+    [ "lnegmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga938ff6d74279ed468236a3ce62efba30", null ],
+    [ "lnegmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gaf22db7dc9d83fc8506abc757772f8588", null ],
+    [ "mac4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga9311a5b5c4ae4f4b3b4cdd54d9b10ef0", null ],
+    [ "mac4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga8530505ec690e00b30f649a00ac9695b", null ],
+    [ "mac4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gae7c07720c0d25dc3d041b3c11a791c76", null ],
+    [ "msc4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gafb2b498b7af924c791a12953dcd145eb", null ],
+    [ "msc4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga729388e41af20f58d4af3e0349253354", null ],
+    [ "msc4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga8e15b773c32fa4eab39bf63b876a1929", null ],
+    [ "mul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga1219871940df72a590a15ac8aefd740d", null ],
+    [ "mul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga0b98e4dd8aa72504f9dde0cfd8ed85ee", null ],
+    [ "mul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga3aab9065a877777c5ef41eff51d21e73", null ],
+    [ "negmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga655c207eef4e270e373b0ccde5513d5f", null ],
+    [ "negmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#gac94e355265f6013a69e2ce22be982a1d", null ],
+    [ "negmul4_sym", "group__vect__mult__sym__32cx16c__dcc.html#ga819096378c522321680d7a6cbcc000be", null ]
+];
