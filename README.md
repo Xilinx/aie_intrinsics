@@ -6,6 +6,6 @@ Datatypes and function intrinsics for AI Engine application-level programming.
 
 | Version | Link                                  |
 |---------|-------------------------------------|
-| 2020.2  | [View Documentation](./2020.2/html_doc_customer/index.html) |
+| 2020.2  | [View Documentation](https://xilinx.github.io/aie_intrinsics/2020.2/html_doc_customer/index.html) |
 
 
